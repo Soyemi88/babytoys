@@ -1,0 +1,164 @@
+
+body{
+  text-align: center;
+  font-family: "Cabin";
+}
+h1,h2,h3,h4{
+  font-family: "Cabin";
+  font-weight: bold;
+}
+p{
+  color: #8f8f8f;
+}
+
+/* Headings */
+.big-heading{
+  font-family: "Cabin";
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight:600;
+}
+
+/* Downlod Buttons */
+.download-button{
+  margin: 5% 3% 5% 0;
+}
+
+/* Navigation Bar */
+
+
+.navbar-brand{
+  font-family: "League Gothic";
+  font-size: 2.5rem;
+  font-weight: 400;
+  
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+.nav-link{
+  font-size: 1.2rem;
+  font-family: "Cabin";
+  font-weight:0,600;
+}
+
+/* Title */
+#title{
+  text-align: left;
+  background-color: #28ffbf;
+  color: black;
+}
+.container-fluid{
+  padding: 3% 15% 7%;
+}
+.titleimage{
+  width: 100%;
+  padding: 10%;
+  margin-top:-10px;
+}
+.title-row{
+  padding:3% 15% 7% ;
+}
+
+
+/* Features section */
+.fa-3x{
+  padding: 5% 15%;
+  color:#C1F4C5 ;
+}
+
+.fa-3x:hover{
+  color:#28ffbf;
+}
+
+.features-row{
+  padding: 5%;
+}
+
+/* Testimonials */
+#testimonials{
+  background-color:#C1F4C5;
+}
+
+.testimonial-text{
+  font-size: 3rem;
+  line-height: 1.5;
+  margin: 20px;
+}
+
+.carousel-item{
+  padding: 7% 15%; 
+}
+
+.testimonial-image{
+  width: 20%;
+}
+/* press */
+#press{
+  background-color: #C1F4C5;
+}
+.press-logo{
+  width: 20%;
+  margin: 20px 20px 50px;
+}
+
+/* Package */
+.package-text{
+  line-height: 1.5;
+  font-size: 3rem;
+  font-weight: bold;
+}
+#package{
+  padding: 100px;
+}
+.package-row{
+margin-top: 90px;
+}
+
+.card-header{
+  background-color: #28ffbf;
+  color:black;
+}
+.card-body{
+  background-color: #C1F4C5;
+  color: black;
+}
+
+.card-text p{
+  color:black;
+
+}
+
+.purchase-now{
+  width:100%;
+}
+
+#cta{
+  background-color: #28ffbf;
+  color: black;
+}
+
+#footer{
+  padding:7% 15%;
+}
+
+.col-ft{
+  margin: 20px 10px;
+  color: #28ffbf;
+}
+
+.col-ft:hover{
+  color: #C1F4C5;
+}
+
+@media(max-width:1028px){
+  #title{
+    text-align: center;
+  }
+}
+
+
+
+
